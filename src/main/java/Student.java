@@ -12,6 +12,9 @@ public class Student {
 
     public Student(String fN) {
         this.fN = fN;
+
+
+        id++;
     }
 
 
